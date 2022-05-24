@@ -3,7 +3,7 @@
  * @author：            点灯大师
  * @Affiliated unit：   黄河科技学院
  * @mail：              im_leiaho@163.com
- * @gitee:              https://gitee.com/zleihao/st_stm32_drive.git
+ * @gitee:              https://github.com/zleihao/stm32_drive.git
  * @note                以下驱动结合网上资料与 DS18B20 数据手册编写
  */
 
