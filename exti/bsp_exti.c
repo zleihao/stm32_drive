@@ -5,7 +5,7 @@
  * @Writer:             点灯大师
  * @Affiliated unit：   黄河科技学院
  * @Email:              im_leihao@163.com
- * @gitee:              https://gitee.com/zleihao/st_stm32_drive.git
+ * @github:             https://github.com/zleihao/stm32_drive.git
  * @note:               参考野火例程
  */
 #include "bsp_exti.h"
