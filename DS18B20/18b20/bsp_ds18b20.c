@@ -87,8 +87,8 @@ void Ds18b20_Reset(void)
 /**
  * @brief  检测存在脉冲	
  * @param  无
- * @return   存在脉冲: 0 
- *         不存在脉冲: 1
+ * @return 0: 存在脉冲 
+ *         1: 不存在脉冲
  */
 uint8_t Ds18B20_CheckPulse(void)
 {
